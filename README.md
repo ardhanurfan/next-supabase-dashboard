@@ -1,5 +1,11 @@
-![Add a heading (13)](https://github.com/Chensokheng/next-supabase-dashboard/assets/52232579/8ffea2ac-0200-4bed-b87c-77d162d07b9e)
+<h3 align="center">A Supabase NextJs Dashboard Tutorial By 
+Daily Web Coding</h3>
 
+<div align="center">
+    Detailed tutorial on <a href="https://www.youtube.com/watch?v=D7BzpvHM6JI" target="_blank"><b>Daily Web Coding</b></a> YouTube.
+</div>
+
+![Add a heading (13)](https://github.com/Chensokheng/next-supabase-dashboard/assets/52232579/8ffea2ac-0200-4bed-b87c-77d162d07b9e)
 
 ## Getting Started
 
@@ -8,22 +14,23 @@ First, install the dependencies
 ```bash
 npm i
 ```
-then run the development server:
 
+then run the development server:
 
 ```bash
 npm run dev
 ```
 
 ## Check list
--   [ ] setup supbase fill env.sample
--   [ ] create developer user
--   [ ] handle create user using service role
--   [ ] Prevent UI from none admin
--   [ ] update create user for only admin to create only
--   [ ] read user
--   [ ] update user
--   [ ] delete user
+
+- [ ] setup supbase fill env.sample
+- [ ] create developer user
+- [ ] handle create user using service role
+- [ ] Prevent UI from none admin
+- [ ] update create user for only admin to create only
+- [ ] read user
+- [ ] update user
+- [ ] delete user
 
 ## Tables
 
